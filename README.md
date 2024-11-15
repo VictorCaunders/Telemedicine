@@ -1,5 +1,5 @@
 # Telemedicine project
-This is a simple telemedicine project which helps doctor and patients to connect using video conferencing and chat. You can see the full demo of the same at https://www.youtube.com/watch?v=GslXbdrWbgk. The video is in Nepalese language but you should be able to follow it up.
+This is a simple telemedicine project which helps doctor and patients to connect using video conferencing and chat. 
 
 Below  is the basic flow of the project.
 
@@ -26,7 +26,4 @@ Patients can share document with doctors while conferencing.
 
 Tracks time spent per call between doctor and patient.
 
-Its created using Angular as front end and .NET core as back end and postgre database. Any further technical clarification send me mail at shiv_koirala@yahoo.com.
-
-This complete initative is funded by https://danphehealth.com . 
---
+Its created using Angular as front end and .NET core as back end and postgre database. 
