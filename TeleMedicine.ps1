@@ -29,4 +29,4 @@ Write-Output "Step DB Creation finished..."
 Write-Output "Step 9 Running the application..."
 dotnet build 
 dotnet run
-start ‘https://localhost:5001’
+Start-Process 'https://localhost:5001'
